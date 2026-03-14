@@ -19,6 +19,9 @@ A clean, minimalist analog clock built with HTML, CSS, and JavaScript. This proj
 - **JavaScript:** To handle the time logic and rotate the hands.
 
 ## 📸 Screenshots
+<p align="center">
+  <img src="screenshot.png" alt="Analog Clock" width="300">
+</p>
 
 ## ⚙️ How to Run Locally
 1. **Clone the repository:**
