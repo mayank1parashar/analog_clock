@@ -27,3 +27,10 @@ A clean, minimalist analog clock built with HTML, CSS, and JavaScript. This proj
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/mayank1parashar/analog_clock.git](https://github.com/mayank1parashar/analog_clock.git)
+
+
+ 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=32&duration=2000&pause=800&color=008080&center=true&vCenter=true&width=520&lines=Built+for+practice;By+Mayank+Parashar" alt="Typing Animation" />
+</p>
